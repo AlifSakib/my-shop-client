@@ -4,7 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 const Navbar = () => {
   const navigate = useNavigate;
   return (
-    <div className="font-Dosis font-bold">
+    <div className="font-Montserrot font-bold ">
       <header className="text-gray-600 body-font">
         <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
           <Link
